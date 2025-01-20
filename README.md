@@ -43,4 +43,4 @@ Jugendliche (12–18 Jahre) aus offenen MINT-Angeboten.
 ## **Methodik:**
 - **Projektbasierter Unterricht:** Jugendliche erstellen eigene Werke.
 - **Interaktives Lernen:** Live-Coding-Sessions und gemeinsames Experimentieren.
-- **Kollaboration:** Zusammenarbeit zwischen Style Writer Creative Coder und Jugendlichen, um digitale und analoge Elemente zu vereinen.
+- **Kollaboration:** Zusammenarbeit zwischen Style Writer / Creative Coder und Jugendlichen, um digitale und analoge Elemente zu vereinen.
